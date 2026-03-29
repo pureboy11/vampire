@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"find /private/tmp -name \\\"skill-active-state.json\\\" 2>/dev/null && find /Users/yongseok -name \\\"skill-active-state.json\\\" 2>/dev/null | head -5\",\"description\":\"Search more locations for sk...",
+  "error": "Exit code 1",
+  "timestamp": "2026-03-27T16:03:49.143Z",
+  "retry_count": 1
+}

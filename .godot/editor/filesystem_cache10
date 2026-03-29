@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1774612165
+::res://scenes/::1774610562
+Bullet.tscn::PackedScene::3298946176105992::1774610528::0::1::::<><><>0<>0<><>::res://scripts/Bullet.gd
+Coin.tscn::PackedScene::146876539766408::1774610539::0::1::::<><><>0<>0<><>::res://scripts/Coin.gd
+Enemy.tscn::PackedScene::266313047754024::1774610522::0::1::::<><><>0<>0<><>::res://scripts/Enemy.gd
+LevelUpPopup.tscn::PackedScene::705997961325960::1774610558::0::1::::<><><>0<>0<><>::res://scripts/LevelUpPopup.gd
+Main.tscn::PackedScene::729045352762504::1774610562::0::1::::<><><>0<>0<><>::res://scripts/Main.gd
+Player.tscn::PackedScene::930435905228584::1774610514::0::1::::<><><>0<>0<><>::res://scripts/Player.gd
+::res://scripts/::1774610507
+Bullet.gd::GDScript::2189972607328020641::1774610423::0::1::::<>Area2D<><>0<>0<><>::
+Coin.gd::GDScript::9132151357418474960::1774610440::0::1::::<>Area2D<><>0<>0<><>::
+Enemy.gd::GDScript::2936864070909014136::1774610415::0::1::::<>CharacterBody2D<><>0<>0<><>::
+LevelUpPopup.gd::GDScript::844759562181248247::1774610467::0::1::::<>Control<><>0<>0<><>::
+Main.gd::GDScript::5406366663979447130::1774610507::0::1::::<>Node2D<><>0<>0<><>::
+Player.gd::GDScript::247180512353044862::1774610397::0::1::::<>CharacterBody2D<><>0<>0<><>::

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/yongseok/.claude/**)",
+      "Bash(bash \"/Users/yongseok/.claude/plugins/marketplaces/omc/scripts/setup-progress.sh\" save 2 global)",
+      "Bash(bash \"/Users/yongseok/.claude/plugins/marketplaces/omc/scripts/setup-progress.sh\" resume)",
+      "Bash(chmod +x \"/Users/yongseok/.claude/plugins/marketplaces/omc/scripts/setup-progress.sh\")"
+    ]
+  }
+}

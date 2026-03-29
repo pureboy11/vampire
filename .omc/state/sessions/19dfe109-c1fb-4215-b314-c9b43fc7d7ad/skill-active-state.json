@@ -1,0 +1,10 @@
+{
+  "active": false,
+  "skill_name": "omc-setup",
+  "session_id": "19dfe109-c1fb-4215-b314-c9b43fc7d7ad",
+  "started_at": "2026-03-27T16:04:55.808Z",
+  "last_checked_at": "2026-03-27T16:04:55.808Z",
+  "reinforcement_count": 0,
+  "max_reinforcements": 5,
+  "stale_ttl_ms": 900000
+}
